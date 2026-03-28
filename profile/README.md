@@ -13,5 +13,5 @@ A basic chat application combined with social networking features, similar to Za
 - GitHub: [tuancapoo](https://github.com/tuancapoo)
 
 ## Featured Repositories
-- [Elearning](https://github.com/Zapoo-capoo/elearning)
-- [Chat App](https://github.com/Zapoo-capoo/chat-app)
+- [BackEnd](https://github.com/Zapoo-capoo/Backend)
+- [FrontEnd](https://github.com/Zapoo-capoo/Front-End)
