@@ -5,7 +5,7 @@ A basic chat application combined with social networking features, similar to Za
 - Java Backend Development
 - RESTful APIs with Spring Boot
 - Frontend with ReactJS
-- Open-source contributions & learning new technologies
+- Microservices architecture
 
 ## Contact
 - Email: tuanvip069@gmail.com
